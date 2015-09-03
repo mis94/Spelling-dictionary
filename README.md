@@ -4,6 +4,6 @@ The team I worked with was consisted of me and two of my colleagues in faculty: 
 
 Notes:
 - The document named "Question 7" contains the description of the question and what is needed.
-- the current model automatically reads more than 31000 words from the provided file "english words" and prompts the user continuously to input a string to search for in the dictionary and answers with "OK" if found or "not found" otherwise.
+- The current model automatically reads more than 31000 words from the provided file "english words" and prompts the user continuously to input a string to search for in the dictionary and answers with "OK" if found or "not found" otherwise.
 
 
